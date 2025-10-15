@@ -1,0 +1,3 @@
+class TrashDateDb : DbContext {
+    
+}
